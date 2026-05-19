@@ -20,8 +20,7 @@ Full Stack Developer with a focus on Front End. Currently expanding into blockch
 
 - **Blockchain** — Solidity and Hyperledger Fabric
 - **Python & Django** — Applied daily in current work environment
-- **Astro** — Static site framework
-
+  
 ---
 
 ## Socials
