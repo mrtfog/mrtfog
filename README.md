@@ -13,7 +13,6 @@ Full Stack Developer with a focus on Front End. Currently expanding into blockch
 ## Currently Working On
 
 - **Qualitrack** — Management System (in progress)
-- **Petbliss** — Petshop e-commerce (in progress)
 
 ---
 
@@ -21,6 +20,7 @@ Full Stack Developer with a focus on Front End. Currently expanding into blockch
 
 - **Blockchain** — Solidity and Hyperledger Fabric
 - **Python & Django** — Applied daily in current work environment
+- **Astro** — Static site framework
 
 ---
 
@@ -41,7 +41,15 @@ Full Stack Developer with a focus on Front End. Currently expanding into blockch
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white)
+
+**Forms & Validation**
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white)
+
+**Data Fetching**
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
 
 **Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -55,10 +63,15 @@ Full Stack Developer with a focus on Front End. Currently expanding into blockch
 
 **Database & Cloud**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 
-**Tools & Design**
+**Tooling & CI**
+![Husky](https://img.shields.io/badge/husky-%23000000.svg?style=flat&logo=git&logoColor=white)
+![commitlint](https://img.shields.io/badge/commitlint-%23F7B93E.svg?style=flat&logo=conventional-commits&logoColor=black)
+![release-please](https://img.shields.io/badge/release--please-%234285F4.svg?style=flat&logo=google&logoColor=white)
+
+**Design & Tools**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
