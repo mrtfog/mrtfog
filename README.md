@@ -13,6 +13,7 @@ Full Stack Developer with a focus on Front End. Currently expanding into blockch
 ## Currently Working On
 
 - **Qualitrack** — Management System (in progress)
+- **ColaboApp** — Management System for influencers (in progress)
 
 ---
 
